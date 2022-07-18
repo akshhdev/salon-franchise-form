@@ -1,0 +1,87 @@
+[08-Sep-2020 09:35:35 UTC] PHP Warning:  require(PHPMailer\src\PHPMailer.php): failed to open stream: No such file or directory in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 09:35:35 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer\src\PHPMailer.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 09:38:31 UTC] PHP Warning:  require(PHPMailer\src\PHPMailer.php): failed to open stream: No such file or directory in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 09:38:31 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer\src\PHPMailer.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 09:44:26 UTC] PHP Warning:  require(PHPMailer\src\PHPMailer.php): failed to open stream: No such file or directory in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 09:44:26 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer\src\PHPMailer.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 09:59:08 UTC] PHP Warning:  require(PHPMailer\src\PHPMailer.php): failed to open stream: No such file or directory in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 09:59:08 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer\src\PHPMailer.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 10:01:43 UTC] PHP Warning:  require(PHPMailer\src\PHPMailer.php): failed to open stream: No such file or directory in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 10:01:43 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer\src\PHPMailer.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 10:07:50 UTC] PHP Warning:  require(PHPMailer\src\PHPMailer.php): failed to open stream: No such file or directory in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 10:07:50 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer\src\PHPMailer.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 10:12:52 UTC] PHP Warning:  require(/home/c9ayktof9w80/public_html/clients/salon-franchise1/js./PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 10:12:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/c9ayktof9w80/public_html/clients/salon-franchise1/js./PHPMailer/src/PHPMailer.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 3
+[08-Sep-2020 10:13:26 UTC] PHP Notice:  Undefined variable: Name in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 49
+[08-Sep-2020 10:13:26 UTC] PHP Notice:  Undefined variable: Mobile in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 50
+[08-Sep-2020 10:13:26 UTC] PHP Notice:  Undefined variable: Email in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 51
+[08-Sep-2020 10:13:26 UTC] PHP Notice:  Undefined variable: City in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 52
+[08-Sep-2020 10:13:26 UTC] PHP Notice:  Undefined variable: Area in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 53
+[08-Sep-2020 10:13:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\Exception' not found in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php:1758
+Stack trace:
+#0 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php(1513): PHPMailer\PHPMailer->smtpSend('Date: Tue, 8 Se...', '<font face='Ari...')
+#1 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer->postSend()
+#2 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php(57): PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php on line 1758
+[08-Sep-2020 10:14:31 UTC] PHP Notice:  Undefined variable: Name in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 49
+[08-Sep-2020 10:14:31 UTC] PHP Notice:  Undefined variable: Mobile in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 50
+[08-Sep-2020 10:14:31 UTC] PHP Notice:  Undefined variable: Email in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 51
+[08-Sep-2020 10:14:31 UTC] PHP Notice:  Undefined variable: City in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 52
+[08-Sep-2020 10:14:31 UTC] PHP Notice:  Undefined variable: Area in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 53
+[08-Sep-2020 10:14:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\Exception' not found in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php:1758
+Stack trace:
+#0 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php(1513): PHPMailer\PHPMailer->smtpSend('Date: Tue, 8 Se...', '<font face='Ari...')
+#1 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer->postSend()
+#2 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php(57): PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php on line 1758
+[08-Sep-2020 10:15:12 UTC] PHP Notice:  Undefined variable: Name in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 49
+[08-Sep-2020 10:15:12 UTC] PHP Notice:  Undefined variable: Mobile in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 50
+[08-Sep-2020 10:15:12 UTC] PHP Notice:  Undefined variable: Email in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 51
+[08-Sep-2020 10:15:12 UTC] PHP Notice:  Undefined variable: City in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 52
+[08-Sep-2020 10:15:12 UTC] PHP Notice:  Undefined variable: Area in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 53
+[08-Sep-2020 10:15:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\Exception' not found in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php:1758
+Stack trace:
+#0 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php(1513): PHPMailer\PHPMailer->smtpSend('Date: Tue, 8 Se...', '<font face='Ari...')
+#1 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer->postSend()
+#2 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php(57): PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php on line 1758
+[08-Sep-2020 10:20:19 UTC] PHP Notice:  Undefined variable: Name in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 49
+[08-Sep-2020 10:20:19 UTC] PHP Notice:  Undefined variable: Mobile in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 50
+[08-Sep-2020 10:20:19 UTC] PHP Notice:  Undefined variable: Email in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 51
+[08-Sep-2020 10:20:19 UTC] PHP Notice:  Undefined variable: City in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 52
+[08-Sep-2020 10:20:19 UTC] PHP Notice:  Undefined variable: Area in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 53
+[08-Sep-2020 10:20:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\Exception' not found in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php:1758
+Stack trace:
+#0 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php(1513): PHPMailer\PHPMailer->smtpSend('Date: Tue, 8 Se...', '<font face='Ari...')
+#1 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer->postSend()
+#2 /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php(57): PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/PHPMailer/src/PHPMailer.php on line 1758
+[08-Sep-2020 10:22:00 UTC] PHP Notice:  Undefined variable: Name in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 50
+[08-Sep-2020 10:22:00 UTC] PHP Notice:  Undefined variable: Mobile in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 51
+[08-Sep-2020 10:22:00 UTC] PHP Notice:  Undefined variable: Email in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 52
+[08-Sep-2020 10:22:00 UTC] PHP Notice:  Undefined variable: City in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 53
+[08-Sep-2020 10:22:00 UTC] PHP Notice:  Undefined variable: Area in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 54
+[08-Sep-2020 10:23:07 UTC] PHP Notice:  Undefined variable: Name in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 50
+[08-Sep-2020 10:23:07 UTC] PHP Notice:  Undefined variable: Mobile in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 51
+[08-Sep-2020 10:23:07 UTC] PHP Notice:  Undefined variable: Email in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 52
+[08-Sep-2020 10:23:07 UTC] PHP Notice:  Undefined variable: City in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 53
+[08-Sep-2020 10:23:07 UTC] PHP Notice:  Undefined variable: Area in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 54
+[08-Sep-2020 10:27:10 UTC] PHP Notice:  Undefined variable: Name in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 50
+[08-Sep-2020 10:27:10 UTC] PHP Notice:  Undefined variable: Mobile in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 51
+[08-Sep-2020 10:27:10 UTC] PHP Notice:  Undefined variable: Email in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 52
+[08-Sep-2020 10:27:10 UTC] PHP Notice:  Undefined variable: City in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 53
+[08-Sep-2020 10:27:10 UTC] PHP Notice:  Undefined variable: Area in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 54
+[08-Sep-2020 10:27:17 UTC] PHP Notice:  Undefined variable: Name in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 50
+[08-Sep-2020 10:27:17 UTC] PHP Notice:  Undefined variable: Mobile in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 51
+[08-Sep-2020 10:27:17 UTC] PHP Notice:  Undefined variable: Email in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 52
+[08-Sep-2020 10:27:17 UTC] PHP Notice:  Undefined variable: City in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 53
+[08-Sep-2020 10:27:17 UTC] PHP Notice:  Undefined variable: Area in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 54
+[08-Sep-2020 10:28:51 UTC] PHP Notice:  Undefined variable: Name in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 50
+[08-Sep-2020 10:28:51 UTC] PHP Notice:  Undefined variable: Mobile in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 51
+[08-Sep-2020 10:28:51 UTC] PHP Notice:  Undefined variable: Email in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 52
+[08-Sep-2020 10:28:51 UTC] PHP Notice:  Undefined variable: City in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 53
+[08-Sep-2020 10:28:51 UTC] PHP Notice:  Undefined variable: Area in /home/c9ayktof9w80/public_html/clients/salon-franchise1/js/sendenquiry.php on line 54
